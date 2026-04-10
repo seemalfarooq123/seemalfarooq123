@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Seemal Farooq 👋
 
-<!--
-**seemalfarooq123/seemalfarooq123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- BS Computer Science Student @ PIEAS  
+- AI & Machine Learning Enthusiast  
+- Exploring Multi-Agent Systems & Emergent Intelligence  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+- Passionate about building intelligent systems
+- Currently learning Machine Learning & Deep Learning
+- Interested in research and real-world AI applications
+
+---
+
+## 🛠️ Skills
+- Python
+- Machine Learning
+- Data Analysis
+- Problem Solving
+
+---
+
+##  Current Focus
+- Building AI/ML projects
+- Learning Deep Learning
+- Working on Multi-Agent Systems
+
+---
+
+##  Connect with Me
+- LinkedIn: https://www.linkedin.com/in/seemal-farooq
+- GitHub: https://github.com/seemalfarooq123
